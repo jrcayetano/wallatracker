@@ -1,0 +1,7 @@
+{
+  "/rest/*": {
+    "target": "https://es.wallapop.com",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
